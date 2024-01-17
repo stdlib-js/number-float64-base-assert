@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/number-float64-base-assert",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Base double-precision floating-point number assert functions.",
   "license": "Apache-2.0",
   "author": {
