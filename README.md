@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import assert from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-assert@esm/index.mjs';
+import assert from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-assert@v0.2.1-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { isSameValue, isSameValueZero } from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-assert@esm/index.mjs';
+import { isSameValue, isSameValueZero } from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-assert@v0.2.1-esm/index.mjs';
 ```
 
 #### assert
@@ -100,7 +100,7 @@ The namespace contains the following functions:
 <script type="module">
 
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@esm/index.mjs';
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-assert@esm/index.mjs';
+import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-assert@v0.2.1-esm/index.mjs';
 
 console.log( objectKeys( ns ) );
 
