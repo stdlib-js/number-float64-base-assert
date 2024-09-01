@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-08-03)
+## Unreleased (2024-09-01)
 
 <section class="packages">
 
@@ -46,27 +46,17 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <!-- /.release -->
 
+<section class="release" id="v0.2.1">
+
 ## 0.2.1 (2024-02-22)
 
-<section class="packages">
-
-### Packages
+No changes reported for this release.
 
 </section>
 
-<!-- /.packages -->
+<!-- /.release -->
 
-<section class="commits">
-
-### Commits
-
-<details>
-
-</details>
-
-</section>
-
-<!-- /.commits -->
+<section class="release" id="v0.2.0">
 
 ## 0.2.0 (2024-02-14)
 
@@ -92,18 +82,6 @@ A total of 2 people contributed to this release. Thank you to the following cont
 <!-- /.features -->
 
 </details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="number-float64-base-assert-is-same-value-v0.2.0">
-
-#### [@stdlib/number/float64/base/assert/is-same-value](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/float64/base/assert/is-same-value)
-
-<details>
-
-No changes reported for this release.</details>
 
 </section>
 
@@ -167,6 +145,12 @@ A total of 2 people contributed to this release. Thank you to the following cont
 </section>
 
 <!-- /.commits -->
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.1.0">
 
 ## 0.1.0 (2024-01-17)
 
@@ -249,4 +233,8 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.commits -->
+
+</section>
+
+<!-- /.release -->
 
