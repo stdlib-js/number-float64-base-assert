@@ -4,12 +4,14 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-30)
+## Unreleased (2025-09-01)
 
 <section class="features">
 
 ### Features
 
+-   [`0cf2dd6`](https://github.com/stdlib-js/stdlib/commit/0cf2dd65ae1a209d306184a82c4226742bfa6103) - add `isAlmostEqual` exports to namespaces
+-   [`d10932c`](https://github.com/stdlib-js/stdlib/commit/d10932c2a1f70d4b26332abd0bc80ea09848618a) - add `number/float64/base/assert/is-almost-equal`
 -   [`e38f5ec`](https://github.com/stdlib-js/stdlib/commit/e38f5ecf382db6ed19fc3b66d75801fbf9909843) - add `number/float64/base/assert/is-almost-equal-value` [(#7473)](https://github.com/stdlib-js/stdlib/pull/7473)
 
 </section>
@@ -22,6 +24,12 @@
 
 <details>
 
+-   [`0cf2dd6`](https://github.com/stdlib-js/stdlib/commit/0cf2dd65ae1a209d306184a82c4226742bfa6103) - **feat:** add `isAlmostEqual` exports to namespaces _(by Philipp Burckhardt)_
+-   [`7483bef`](https://github.com/stdlib-js/stdlib/commit/7483bef13b1d3241347266d25a02957269419825) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
+-   [`6eee151`](https://github.com/stdlib-js/stdlib/commit/6eee15199727d04e3757e66f38384e97b8a333da) - **style:** fix indentation in JSON files _(by Philipp Burckhardt)_
+-   [`409c1ff`](https://github.com/stdlib-js/stdlib/commit/409c1ff7475d0f0d38f3efb596739cf89686ca83) - **remove:** remove `number/float64/base/assert/is-almost-equal-value` _(by Karan Anand)_
+-   [`d10932c`](https://github.com/stdlib-js/stdlib/commit/d10932c2a1f70d4b26332abd0bc80ea09848618a) - **feat:** add `number/float64/base/assert/is-almost-equal` _(by Karan Anand)_
+-   [`bc8edad`](https://github.com/stdlib-js/stdlib/commit/bc8edad112684c9bb6aa1e05f76bdb8a9e1f331c) - **docs:** fix examples _(by Karan Anand)_
 -   [`e38f5ec`](https://github.com/stdlib-js/stdlib/commit/e38f5ecf382db6ed19fc3b66d75801fbf9909843) - **feat:** add `number/float64/base/assert/is-almost-equal-value` [(#7473)](https://github.com/stdlib-js/stdlib/pull/7473) _(by Karan Anand, Athan Reines)_
 -   [`b723a6e`](https://github.com/stdlib-js/stdlib/commit/b723a6eaec97adad2da4ffbecb532a3d1ae1e0ba) - **docs:** fix errors in comments and clean-up _(by Philipp Burckhardt)_
 -   [`2777e4b`](https://github.com/stdlib-js/stdlib/commit/2777e4be161869d09406e3b17947d24c64b47af2) - **bench:** resolve lint errors in benchmarks _(by Athan Reines)_
