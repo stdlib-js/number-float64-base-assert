@@ -4,12 +4,14 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-11-07)
+## Unreleased (2025-12-17)
 
 <section class="features">
 
 ### Features
 
+-   [`944d850`](https://github.com/stdlib-js/stdlib/commit/944d8507e3098c835182bc77b48f56b21e9f829f) - add `isAlmostSameValue` to namespace
+-   [`cb49481`](https://github.com/stdlib-js/stdlib/commit/cb494813a263590bf130b84692170027034bfe9b) - add `number/float64/base/assert/is-almost-same-value`
 -   [`f114dad`](https://github.com/stdlib-js/stdlib/commit/f114dad17c4ab240701b7c67aeb313aac7831eb7) - update `number/float64/base/assert` TypeScript declarations
 -   [`0cf2dd6`](https://github.com/stdlib-js/stdlib/commit/0cf2dd65ae1a209d306184a82c4226742bfa6103) - add `isAlmostEqual` exports to namespaces
 -   [`d10932c`](https://github.com/stdlib-js/stdlib/commit/d10932c2a1f70d4b26332abd0bc80ea09848618a) - add `number/float64/base/assert/is-almost-equal`
@@ -25,6 +27,8 @@
 
 <details>
 
+-   [`944d850`](https://github.com/stdlib-js/stdlib/commit/944d8507e3098c835182bc77b48f56b21e9f829f) - **feat:** add `isAlmostSameValue` to namespace _(by Athan Reines)_
+-   [`cb49481`](https://github.com/stdlib-js/stdlib/commit/cb494813a263590bf130b84692170027034bfe9b) - **feat:** add `number/float64/base/assert/is-almost-same-value` _(by Athan Reines)_
 -   [`5f5bb2d`](https://github.com/stdlib-js/stdlib/commit/5f5bb2d4277a24000b57fb07bc28d821500cd7e8) - **docs:** update namespace table of contents [(#8425)](https://github.com/stdlib-js/stdlib/pull/8425) _(by stdlib-bot, Athan Reines)_
 -   [`f114dad`](https://github.com/stdlib-js/stdlib/commit/f114dad17c4ab240701b7c67aeb313aac7831eb7) - **feat:** update `number/float64/base/assert` TypeScript declarations _(by Philipp Burckhardt)_
 -   [`0cf2dd6`](https://github.com/stdlib-js/stdlib/commit/0cf2dd65ae1a209d306184a82c4226742bfa6103) - **feat:** add `isAlmostEqual` exports to namespaces _(by Philipp Burckhardt)_

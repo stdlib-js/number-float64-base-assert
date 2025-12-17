@@ -37,6 +37,7 @@
   },
   "dependencies": {
     "@stdlib/number-float64-base-assert-is-almost-equal": "github:stdlib-js/number-float64-base-assert-is-almost-equal#main",
+    "@stdlib/number-float64-base-assert-is-almost-same-value": "github:stdlib-js/number-float64-base-assert-is-almost-same-value#main",
     "@stdlib/number-float64-base-assert-is-same-value": "^0.2.1",
     "@stdlib/number-float64-base-assert-is-same-value-zero": "^0.1.1",
     "@stdlib/utils-define-read-only-property": "^0.2.2"
@@ -45,6 +46,7 @@
     "@stdlib/assert-is-boolean": "^0.2.2",
     "@stdlib/boolean-ctor": "^0.2.2",
     "@stdlib/constants-float64-eps": "^0.2.2",
+    "@stdlib/math-base-assert-is-nan": "^0.2.2",
     "@stdlib/number-float64-base-ulp-difference": "github:stdlib-js/number-float64-base-ulp-difference#main",
     "@stdlib/utils-keys": "^0.2.2",
     "@stdlib/utils-try-require": "^0.2.2",
