@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`d46e973`](https://github.com/stdlib-js/stdlib/commit/d46e97334b11c7fba92f42a999db865d8dc4fdd2) - update `number/float64/base/assert` TypeScript declarations [(#9203)](https://github.com/stdlib-js/stdlib/pull/9203)
 -   [`944d850`](https://github.com/stdlib-js/stdlib/commit/944d8507e3098c835182bc77b48f56b21e9f829f) - add `isAlmostSameValue` to namespace
 -   [`cb49481`](https://github.com/stdlib-js/stdlib/commit/cb494813a263590bf130b84692170027034bfe9b) - add `number/float64/base/assert/is-almost-same-value`
 -   [`f114dad`](https://github.com/stdlib-js/stdlib/commit/f114dad17c4ab240701b7c67aeb313aac7831eb7) - update `number/float64/base/assert` TypeScript declarations
@@ -27,6 +28,7 @@
 
 <details>
 
+-   [`d46e973`](https://github.com/stdlib-js/stdlib/commit/d46e97334b11c7fba92f42a999db865d8dc4fdd2) - **feat:** update `number/float64/base/assert` TypeScript declarations [(#9203)](https://github.com/stdlib-js/stdlib/pull/9203) _(by stdlib-bot)_
 -   [`de9dec4`](https://github.com/stdlib-js/stdlib/commit/de9dec49411a9f71d800970e9324e87dca52098b) - **docs:** update namespace table of contents [(#9205)](https://github.com/stdlib-js/stdlib/pull/9205) _(by stdlib-bot)_
 -   [`944d850`](https://github.com/stdlib-js/stdlib/commit/944d8507e3098c835182bc77b48f56b21e9f829f) - **feat:** add `isAlmostSameValue` to namespace _(by Athan Reines)_
 -   [`cb49481`](https://github.com/stdlib-js/stdlib/commit/cb494813a263590bf130b84692170027034bfe9b) - **feat:** add `number/float64/base/assert/is-almost-same-value` _(by Athan Reines)_
