@@ -79,6 +79,7 @@ The namespace contains the following functions:
 <div class="namespace-toc">
 
 -   <span class="signature">[`isAlmostEqual( a, b, maxULP )`][@stdlib/number/float64/base/assert/is-almost-equal]</span><span class="delimiter">: </span><span class="description">test if two double-precision floating-point numbers are approximately equal within a specified number of ULPs (units in the last place).</span>
+-   <span class="signature">[`isAlmostSameValue( a, b, maxULP )`][@stdlib/number/float64/base/assert/is-almost-same-value]</span><span class="delimiter">: </span><span class="description">test if two double-precision floating-point numbers are approximately the same value within a specified number of ULPs (units in the last place).</span>
 -   <span class="signature">[`isSameValueZero( a, b )`][@stdlib/number/float64/base/assert/is-same-value-zero]</span><span class="delimiter">: </span><span class="description">test if two double-precision floating-point numbers are the same value.</span>
 -   <span class="signature">[`isSameValue( a, b )`][@stdlib/number/float64/base/assert/is-same-value]</span><span class="delimiter">: </span><span class="description">test if two double-precision floating-point numbers are the same value.</span>
 
@@ -200,6 +201,8 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 <!-- <toc-links> -->
 
 [@stdlib/number/float64/base/assert/is-almost-equal]: https://github.com/stdlib-js/number-float64-base-assert-is-almost-equal
+
+[@stdlib/number/float64/base/assert/is-almost-same-value]: https://github.com/stdlib-js/number-float64-base-assert-is-almost-same-value
 
 [@stdlib/number/float64/base/assert/is-same-value-zero]: https://github.com/stdlib-js/number-float64-base-assert-is-same-value-zero
 
