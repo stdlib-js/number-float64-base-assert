@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-25)
+## Unreleased (2026-09-13)
+
+<section class="features">
+
+### Features
+
+-   [`02db01b`](https://github.com/stdlib-js/stdlib/commit/02db01b365ea04f74545222257fc951c6a53b529) - add C implementation to `number/float64/base/assert/is-almost-same-value` [(#15076)](https://github.com/stdlib-js/stdlib/pull/15076)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,9 @@
 
 <details>
 
+-   [`02db01b`](https://github.com/stdlib-js/stdlib/commit/02db01b365ea04f74545222257fc951c6a53b529) - **feat:** add C implementation to `number/float64/base/assert/is-almost-same-value` [(#15076)](https://github.com/stdlib-js/stdlib/pull/15076) _(by Muhammad Haris, Athan Reines)_
+-   [`7ae11bc`](https://github.com/stdlib-js/stdlib/commit/7ae11bca9e05607a14425d165dfed57584b880b8) - **chore:** clean-up [(#13834)](https://github.com/stdlib-js/stdlib/pull/13834) _(by Philipp Burckhardt)_
+-   [`430fdea`](https://github.com/stdlib-js/stdlib/commit/430fdea947428af11c0e75dc6f6a0bd3cbd13e88) - **chore:** clean-up [(#13805)](https://github.com/stdlib-js/stdlib/pull/13805) _(by Philipp Burckhardt)_
 -   [`fe2eec4`](https://github.com/stdlib-js/stdlib/commit/fe2eec4417d858b83b208929a4bbac3d9d236fa4) - **bench:** refactor to use string interpolation in `number` [(#11603)](https://github.com/stdlib-js/stdlib/pull/11603) _(by Karan Anand)_
 
 </details>
@@ -24,9 +37,12 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Karan Anand
+-   Muhammad Haris
+-   Philipp Burckhardt
 
 </section>
 
